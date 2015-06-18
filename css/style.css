@@ -70,15 +70,30 @@ main h2{
      text-transform: uppercase;
 }
 span{ 
-     text-align: right;
-     color: red;
-     margin-left: 50px;
+     float: right;
 }
 footer{
      text-align: center;
 }
 section{
      display: block;
+}
+footer a{
+     padding: 10px;
+     font-size: 14px;
+}
+footer{
+     margin-bottom: 10px;
+}
+img{
+     border: 7px solid black;
+     border-radius: 20px;
+     height: 300px;
+     width: auto;
+}
+var{
+     font-size: 16px;
+     font-style: normal;
 }
 
 /******************************************
